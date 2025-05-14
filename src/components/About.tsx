@@ -37,7 +37,7 @@ const About: React.FC = () => {
               <div className="bg-white p-6 rounded-lg shadow-sm border border-gray-100">
                 <div className="flex flex-col md:flex-row md:items-center justify-between mb-2">
                   <h4 className="text-lg font-medium text-gray-800">Diploma in Computer Engineering</h4>
-                  <span className="text-blue-600 font-medium">2016 - 2019</span>
+                  <span className="text-blue-600 font-medium">2021 - 2024</span>
                 </div>
                 <p className="text-gray-600">Kerala Govt Polytechnic College Calicut</p>
               </div>
