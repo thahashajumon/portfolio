@@ -81,7 +81,7 @@ const Contact: React.FC = () => {
               <h3 className="text-2xl font-semibold text-gray-800 mb-6">Connect With Me</h3>
               <div className="flex space-x-4">
                 <a 
-                  href="#" 
+                  href="https://www.linkedin.com/in/thahashajumon3193/" 
                   className="w-10 h-10 bg-blue-600 text-white rounded-full flex items-center justify-center hover:bg-blue-700 transition-colors"
                   aria-label="LinkedIn"
                 >
